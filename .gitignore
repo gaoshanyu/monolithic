@@ -24,6 +24,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 **/yarn.lock
+/.idea/
 
 ### NetBeans ###
 /nbproject/private/
@@ -34,3 +35,4 @@ out/
 
 ### VS Code ###
 .vscode/
+
